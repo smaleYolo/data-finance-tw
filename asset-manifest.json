@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/smaleYolo/data-finance-tw/static/css/main.877097e2.css",
-    "main.js": "/smaleYolo/data-finance-tw/static/js/main.6e4b4cbf.js",
-    "static/media/laptop.jpeg": "/smaleYolo/data-finance-tw/static/media/laptop.45ddf500e572fb2f1d35.jpeg",
-    "static/media/single.png": "/smaleYolo/data-finance-tw/static/media/single.20196aa3e7e7fa48f8f7.png",
-    "static/media/double.png": "/smaleYolo/data-finance-tw/static/media/double.8be045e6bb88be63d414.png",
-    "static/media/triple.png": "/smaleYolo/data-finance-tw/static/media/triple.4eb8f19f4b4647321484.png",
-    "index.html": "/smaleYolo/data-finance-tw/index.html",
-    "main.877097e2.css.map": "/smaleYolo/data-finance-tw/static/css/main.877097e2.css.map",
-    "main.6e4b4cbf.js.map": "/smaleYolo/data-finance-tw/static/js/main.6e4b4cbf.js.map"
+    "main.css": "/data-finance-tw/static/css/main.877097e2.css",
+    "main.js": "/data-finance-tw/static/js/main.66ff7511.js",
+    "static/media/laptop.jpeg": "/data-finance-tw/static/media/laptop.45ddf500e572fb2f1d35.jpeg",
+    "static/media/single.png": "/data-finance-tw/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/data-finance-tw/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/data-finance-tw/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/data-finance-tw/index.html",
+    "main.877097e2.css.map": "/data-finance-tw/static/css/main.877097e2.css.map",
+    "main.66ff7511.js.map": "/data-finance-tw/static/js/main.66ff7511.js.map"
   },
   "entrypoints": [
     "static/css/main.877097e2.css",
-    "static/js/main.6e4b4cbf.js"
+    "static/js/main.66ff7511.js"
   ]
 }
